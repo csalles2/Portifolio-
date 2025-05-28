@@ -56,7 +56,7 @@ Desenvolvedora Full Stack com experiência em construir aplicações web complet
 
 ## 📫 Contato
 
-- Email: seu-email@provedor.com
+- Email: camilleaguirre743@gmail.com
 - LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/camille-salles-4585b4234/)
 - Site Pessoal: [https://seu-portfolio.com](https://seu-portfolio.com)
 
