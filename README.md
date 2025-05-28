@@ -1,6 +1,6 @@
 # Camille Salles - Desenvolvedora Full Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camille-salles-4585b4234/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/csalles2)
 [![Portfólio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
 
@@ -57,7 +57,7 @@ Desenvolvedora Full Stack com experiência em construir aplicações web complet
 ## 📫 Contato
 
 - Email: seu-email@provedor.com
-- LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
+- LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/camille-salles-4585b4234/)
 - Site Pessoal: [https://seu-portfolio.com](https://seu-portfolio.com)
 
 ---
