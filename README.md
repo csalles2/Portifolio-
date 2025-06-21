@@ -11,8 +11,8 @@ Desenvolvedora Full Stack com experiência em construir aplicações web complet
 **Principais habilidades:**
 - ✅ Frontend: React, JavaScript, HTML5, CSS3, Bootstrap
 - ✅ Backend: Node.js, Express, MongoDB, APIs RESTful
-- ✅ DevOps: Git, GitHub, Render, Netlify
-- ✅ Metodologias: Scrum, Clean Code, Responsive Design
+- ✅ DevOps: Git, GitHub, Render
+- ✅ Metodologias: Scrum, Responsive Design
 
 ## 🛠 Tecnologias
 
