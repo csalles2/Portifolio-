@@ -6,7 +6,7 @@
 
 ## 👋 Sobre Mim
 
-Desenvolvedora Full Stack com experiência em construir aplicações web completas, desde a interface do usuário até a infraestrutura backend. Apaixonada por resolver problemas complexos com código limpo e soluções eficientes.
+Desenvolvedora Frotend com experiência em construir aplicações web completas, desde a interface do usuário até a infraestrutura backend. Apaixonada por resolver problemas complexos com código limpo e soluções eficientes.
 
 **Principais habilidades:**
 - ✅ Frontend: React, JavaScript, HTML5, CSS3, Bootstrap
