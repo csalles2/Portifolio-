@@ -9,7 +9,7 @@
 Desenvolvedora Frotend com experiência em construir aplicações web completas, desde a interface do usuário até a infraestrutura backend. Apaixonada por resolver problemas complexos com código limpo e soluções eficientes.
 
 **Principais habilidades:**
-**Principais habilidades:**
+
 - **✅ Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap
 - **✅ Backend:** Node.js, Express, MongoDB, APIs RESTful
 - **✅ DevOps & Versionamento:** Git, GitHub, Render
