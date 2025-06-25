@@ -13,6 +13,8 @@ Desenvolvedora Frotend com experiência em construir aplicações web completas,
 - ✅ Backend: Node.js, Express, MongoDB, APIs RESTful
 - ✅ DevOps: Git, GitHub, Render
 - ✅ Metodologias: Scrum, Responsive Design
+- ✅ Ferramentas: Figma, VsCode
+- 
 
 ## 🛠 Tecnologias
 
