@@ -9,10 +9,13 @@
 Desenvolvedora Frotend com experiência em construir aplicações web completas, desde a interface do usuário até a infraestrutura backend. Apaixonada por resolver problemas complexos com código limpo e soluções eficientes.
 
 **Principais habilidades:**
-- ✅ Frontend: React, JavaScript, HTML5, CSS3, Bootstrap
-- ✅ Backend: Node.js, Express, MongoDB, APIs RESTful
-- ✅ DevOps: Git, GitHub, Render
-- ✅ Metodologias: Scrum, Responsive Design
+
+- **✅ Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap
+- **✅ Backend:** Node.js, Express, MongoDB, APIs RESTful
+- **✅ DevOps & Versionamento:** Git, GitHub, Render
+- **✅ Design e Prototipação:** Figma
+- **✅ Metodologias:** Scrum, Responsive Design
+- **✅Ferramentas de Desenvolvimento:** Visual Studio Code
 
 ## 🛠 Tecnologias
 
@@ -40,8 +43,8 @@ Desenvolvedora Frotend com experiência em construir aplicações web completas,
 
 ### 2. [Sistema de Cafeteria](https://cafeteria-tc1a.onrender.com)
 - Sistema de pedidos online para cafeteria
-- Tecnologias: Node.js, Express, MongoDB
-- Features: CRUD completo, autenticação, dashboard admin
+- Futuras Tecnologias: Node.js, Express, MongoDB
+- Futuras Features: CRUD completo, autenticação, dashboard admin
 
 ### 3. [Aplicativo de Clima](https://csalles2.github.io/Clima/)
 - Consulta de previsão do tempo em tempo real
