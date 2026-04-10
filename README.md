@@ -48,11 +48,11 @@ O projeto está publicado utilizando **GitHub Pages**.
 
 ## 👨‍💻 Autor
 
-**Carlos Salles**
+**Camille Salles**
 
 * GitHub: https://github.com/csalles2
 
 
 
-Este projeto está sob a licença MIT.
+
 
